@@ -21,7 +21,7 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Magesh',
     'I\'m an "Versatile Developer"<br> Empowering communities through Technology and Innovations.',
-    'Want to connect?<br> My inbox is always open!<br> I\'m currently Open to work <br>Interested to collaborate with tech peoples.<br> You can contact me at <a href="mailto:hello@julian.gr">hello@julian.gr</a>',
+    'Want to connect?<br> My inbox is always open!<br> I\'m currently Open to work <br>Interested to collaborate with tech peoples.<br> You can contact me at <a href="mailto:gpk.magsun@gmail.com">gpk.magsun@gmail.com</a>',
     '<a target="_blank" href="https://www.linkedin.com/in/magesh-sundar-965ba2190/">linkedin.com/mageshsundar</a><br><a target="_blank" href="https://github.com/MageshSundarG">github.com/mageshsundar</a><br><a target="_blank" href="https://twitter.com/MageshSundarG">twitter.com/mageshsundar</a><br><a target="_blank" href="https://www.instagram.com/imageshsundar/">instagram.com/mageshsundar</a>',
     'If you like my work, <br>you can <a target="_blank" href="https://www.buymeacoffee.com/mageshsundarg">buy me a coffee</a> and share your thoughts 🎉☕',
     getCurrentTime(),
